@@ -1,0 +1,5 @@
+sso_instance_arn = "arn:aws:sso:::instance/ssoins-6595fa73acf83e0b"
+iam_managed_policy_arn = "arn:aws:iam::aws:policy/job-function/ViewOnlyAccess"
+sso_user_id = "9f67217136-e4615864-9d3a-449a-bdff-a357dd37e091"
+sso_user_type = "USER"
+aws_account_id = "136966410134"
